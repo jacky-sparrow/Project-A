@@ -1,0 +1,2 @@
+# Project-A
+This is a sample project to understand git basics
